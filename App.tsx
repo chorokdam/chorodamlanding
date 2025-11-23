@@ -21,7 +21,7 @@ const APPS_DATA: AppItem[] = [
     title: '하루갈피',
     description: '스쳐 지나가는 하루를 조용한 갈피로 남겨두는 미니멀 일기 앱. 복잡한 소셜 기능 없이, 오직 당신의 기록과 감정에만 집중할 수 있는 공간입니다.',
     icon: PenLine,
-    url: 'https://vercel.com/chorokdams-projects/harugalpi',
+    url: 'https://harugalpi.vercel.app',
     status: 'live',
     category: 'Lifestyle'
   },
