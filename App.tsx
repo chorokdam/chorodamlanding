@@ -28,7 +28,7 @@ const APPS_DATA: AppItem[] = [
   {
     id: '2',
     title: '프로젝트 B',
-    description: '감정과 장면을 담아내는 새로운 기록 도구. 텍스트 너머의 분위기를 기록합니다.',
+    description: '준비 중입니다.',
     icon: Palette,
     url: '#',
     status: 'coming-soon',
@@ -37,7 +37,7 @@ const APPS_DATA: AppItem[] = [
   {
     id: '3',
     title: '아이디어 랩',
-    description: '자연과 함께하는 감성 기록 서비스. 숲의 소리와 함께하는 몰입의 시간.',
+    description: '준비 중입니다.',
     icon: FlaskConical,
     url: '#',
     status: 'coming-soon',
